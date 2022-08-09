@@ -18,3 +18,4 @@ Write the desired file such as index.php, then enter
 Snapshots showing how it works :
 
 Before submitting the value, look carefully at the URL :
+
