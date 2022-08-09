@@ -15,7 +15,7 @@ write server "localhost"
 Write the port for example "4432"
 Write the name of the folder containing the project files
 Write the desired file such as index.php, then enter
-Snapshots showing how it works :
 
-Before submitting the value, look carefully at the URL :
+
+
 
